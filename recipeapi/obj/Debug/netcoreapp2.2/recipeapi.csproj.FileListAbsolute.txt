@@ -1,0 +1,14 @@
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\bin\Debug\netcoreapp2.2\recipeapi.deps.json
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\bin\Debug\netcoreapp2.2\recipeapi.runtimeconfig.json
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\bin\Debug\netcoreapp2.2\recipeapi.runtimeconfig.dev.json
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\bin\Debug\netcoreapp2.2\recipeapi.dll
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\bin\Debug\netcoreapp2.2\recipeapi.pdb
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.csprojAssemblyReference.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.RazorAssemblyInfo.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.RazorAssemblyInfo.cs
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.AssemblyInfoInputs.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.AssemblyInfo.cs
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.RazorTargetAssemblyInfo.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.dll
+C:\Users\TEMP.WINDOWS-80KFOHP.000\Documents\recipeapi\recipeapi\obj\Debug\netcoreapp2.2\recipeapi.pdb
